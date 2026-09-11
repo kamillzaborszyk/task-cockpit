@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Add MIT License
+
 The detailed file-level evolution is available through `git log -p`. History before Git adoption was reconstructed from the original versioned snapshots.
 
 ## 2.0.0-alpha.1

@@ -35,4 +35,4 @@ The repository history was reconstructed from the original sequential HTML snaps
 
 ## License
 
-No open-source license has been selected yet. Until a license is added, normal copyright rules apply.
+Task Cockpit is licensed under the [MIT License](LICENSE).
