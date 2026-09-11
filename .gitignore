@@ -1,0 +1,19 @@
+# Personal task data and exports
+*.json
+backups/
+exports/
+
+# Secrets
+.env
+.env.*
+*.token
+*.secret
+
+# OS and editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*~
